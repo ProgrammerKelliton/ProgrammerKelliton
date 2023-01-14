@@ -18,9 +18,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40px"/>          
 </div>
 
-### Estou aprendendo
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg"  width="40px"/>
-
 ### Contato
 <div>
   <a href="https://www.linkedin.com/in/kelliton-santana-0951b622a" target="_blank">
