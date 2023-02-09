@@ -1,6 +1,6 @@
 ### Olá, meu nome é Kelliton...
 
-- 🌱 Atualmente estou aprendendo NextJS
+- 🌱 Atualmente estou aprendendo React-native
 - 😄 Pronomes: Ele/Dele
 
 ![Kelliton's GitHub stats](https://github-readme-stats.vercel.app/api?username=programmerkelliton&show_icons=true&theme=radical)
